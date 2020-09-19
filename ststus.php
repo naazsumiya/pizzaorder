@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+	<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<title >FOOD BONANZA</title><br />
+	</head>
+	<body background="image1.jpg"  height="1000" width="1000">
+	<body style="font-family: Arial">
+			<center>	<br />
+					<h1 style="color:red" width="200" height="200">Food Bonanza</h1><br />
+<h2 style="color:red"  width="200" height="200">STATUS</h2>
+ 
+	<form action="connection.php" method="POST">
+	
+				<P style="color:black"  width="100" height="100"> YOUR ORDER IS PLACED SUCESSFULLY</P><br />
+				<br />
+
+<br />
+				<p1 style="color:blue"><b> THANK YOU</b></p1><br />
+
+
+				<br /></center>
+
+</form>
+</body>
+
+	</body>	
+
+
+
+
+</body>
+	</html>
